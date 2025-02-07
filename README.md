@@ -79,6 +79,12 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
     </code></pre>
 </ol>
 
+![No smoking](https://github.com/user-attachments/assets/0c159e91-7f40-411e-877f-6b008f422288)
+
+![Smoking detected](https://github.com/user-attachments/assets/7e2a0252-a9e7-4d18-90cc-20a166becd5b)
+![Heat detected](https://github.com/user-attachments/assets/6f8e7666-522e-4ce5-bde4-ac77725c3965)
+
+
 <h2>📧 Contact:</h2>
 <p>For any questions or further information, feel free to reach out:</p>
 <ul>
